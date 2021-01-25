@@ -1,0 +1,535 @@
+<object-stream>
+<org.drools.core.audit.WorkingMemoryLog>
+  <version>6.1</version>
+  <events>
+    <org.drools.core.audit.event.ObjectLogEvent>
+      <type>1</type>
+      <factId>1</factId>
+      <objectToString>org.drools.examples.Example.Pair@6f76c2cc</objectToString>
+    </org.drools.core.audit.event.ObjectLogEvent>
+    <org.drools.core.audit.event.ObjectLogEvent>
+      <type>1</type>
+      <factId>2</factId>
+      <objectToString>org.drools.examples.Example.Pair@6a87026</objectToString>
+    </org.drools.core.audit.event.ObjectLogEvent>
+    <org.drools.core.audit.event.ObjectLogEvent>
+      <type>1</type>
+      <factId>3</factId>
+      <objectToString>org.drools.examples.Example.Pair@ef60710</objectToString>
+    </org.drools.core.audit.event.ObjectLogEvent>
+    <org.drools.core.audit.event.ObjectLogEvent>
+      <type>1</type>
+      <factId>4</factId>
+      <objectToString>org.drools.examples.Example.Pair@600f5704</objectToString>
+    </org.drools.core.audit.event.ObjectLogEvent>
+    <org.drools.core.audit.event.ObjectLogEvent>
+      <type>1</type>
+      <factId>5</factId>
+      <objectToString>org.drools.examples.Example.Pair@2503ec73</objectToString>
+    </org.drools.core.audit.event.ObjectLogEvent>
+    <org.drools.core.audit.event.ObjectLogEvent>
+      <type>1</type>
+      <factId>6</factId>
+      <objectToString>org.drools.examples.Example.Pair@606f81b5</objectToString>
+    </org.drools.core.audit.event.ObjectLogEvent>
+    <org.drools.core.audit.event.ObjectLogEvent>
+      <type>1</type>
+      <factId>7</factId>
+      <objectToString>org.drools.examples.Example.Pair@5e1fc42f</objectToString>
+    </org.drools.core.audit.event.ObjectLogEvent>
+    <org.drools.core.audit.event.ObjectLogEvent>
+      <type>1</type>
+      <factId>8</factId>
+      <objectToString>org.drools.examples.Example.Pair@44b21f9f</objectToString>
+    </org.drools.core.audit.event.ObjectLogEvent>
+    <org.drools.core.audit.event.ObjectLogEvent>
+      <type>1</type>
+      <factId>9</factId>
+      <objectToString>org.drools.examples.Example.Pair@7ee8130e</objectToString>
+    </org.drools.core.audit.event.ObjectLogEvent>
+    <org.drools.core.audit.event.ObjectLogEvent>
+      <type>1</type>
+      <factId>10</factId>
+      <objectToString>org.drools.examples.Example.Pair@6296474f</objectToString>
+    </org.drools.core.audit.event.ObjectLogEvent>
+    <org.drools.core.audit.event.ObjectLogEvent>
+      <type>1</type>
+      <factId>11</factId>
+      <objectToString>org.drools.examples.Example.Pair@4288d98e</objectToString>
+    </org.drools.core.audit.event.ObjectLogEvent>
+    <org.drools.core.audit.event.ObjectLogEvent>
+      <type>1</type>
+      <factId>12</factId>
+      <objectToString>org.drools.examples.Example.Pair@169268a7</objectToString>
+    </org.drools.core.audit.event.ObjectLogEvent>
+    <org.drools.core.audit.event.ObjectLogEvent>
+      <type>1</type>
+      <factId>13</factId>
+      <objectToString>org.drools.examples.Example.Pair@285c6918</objectToString>
+    </org.drools.core.audit.event.ObjectLogEvent>
+    <org.drools.core.audit.event.ObjectLogEvent>
+      <type>1</type>
+      <factId>14</factId>
+      <objectToString>org.drools.examples.Example.Pair@78a0ff63</objectToString>
+    </org.drools.core.audit.event.ObjectLogEvent>
+    <org.drools.core.audit.event.ObjectLogEvent>
+      <type>1</type>
+      <factId>15</factId>
+      <objectToString>org.drools.examples.Example.Pair@7c601d50</objectToString>
+    </org.drools.core.audit.event.ObjectLogEvent>
+    <org.drools.core.audit.event.ObjectLogEvent>
+      <type>1</type>
+      <factId>16</factId>
+      <objectToString>org.drools.examples.Example.Pair@79b2852b</objectToString>
+    </org.drools.core.audit.event.ObjectLogEvent>
+    <org.drools.core.audit.event.ObjectLogEvent>
+      <type>1</type>
+      <factId>17</factId>
+      <objectToString>org.drools.examples.Example.Pair@326d27ac</objectToString>
+    </org.drools.core.audit.event.ObjectLogEvent>
+    <org.drools.core.audit.event.ObjectLogEvent>
+      <type>1</type>
+      <factId>18</factId>
+      <objectToString>org.drools.examples.Example.Pair@4d499d65</objectToString>
+    </org.drools.core.audit.event.ObjectLogEvent>
+    <org.drools.core.audit.event.ObjectLogEvent>
+      <type>1</type>
+      <factId>19</factId>
+      <objectToString>org.drools.examples.Example.Pair@313f8301</objectToString>
+    </org.drools.core.audit.event.ObjectLogEvent>
+    <org.drools.core.audit.event.ObjectLogEvent>
+      <type>1</type>
+      <factId>20</factId>
+      <objectToString>org.drools.examples.Example.Pair@5cc9d3d0</objectToString>
+    </org.drools.core.audit.event.ObjectLogEvent>
+    <org.drools.core.audit.event.ObjectLogEvent>
+      <type>1</type>
+      <factId>21</factId>
+      <objectToString>org.drools.examples.Example.Pair@7c2dfa2</objectToString>
+    </org.drools.core.audit.event.ObjectLogEvent>
+    <org.drools.core.audit.event.ObjectLogEvent>
+      <type>1</type>
+      <factId>22</factId>
+      <objectToString>org.drools.examples.Example.Pair@661d88a</objectToString>
+    </org.drools.core.audit.event.ObjectLogEvent>
+    <org.drools.core.audit.event.ObjectLogEvent>
+      <type>1</type>
+      <factId>23</factId>
+      <objectToString>org.drools.examples.Example.Pair@4b0b64cc</objectToString>
+    </org.drools.core.audit.event.ObjectLogEvent>
+    <org.drools.core.audit.event.ObjectLogEvent>
+      <type>1</type>
+      <factId>24</factId>
+      <objectToString>org.drools.examples.Example.Pair@59ce792e</objectToString>
+    </org.drools.core.audit.event.ObjectLogEvent>
+    <org.drools.core.audit.event.ObjectLogEvent>
+      <type>1</type>
+      <factId>25</factId>
+      <objectToString>org.drools.examples.Example.Pair@4860827a</objectToString>
+    </org.drools.core.audit.event.ObjectLogEvent>
+    <org.drools.core.audit.event.ObjectLogEvent>
+      <type>1</type>
+      <factId>26</factId>
+      <objectToString>org.drools.examples.Example.Pair@404db674</objectToString>
+    </org.drools.core.audit.event.ObjectLogEvent>
+    <org.drools.core.audit.event.ObjectLogEvent>
+      <type>1</type>
+      <factId>27</factId>
+      <objectToString>org.drools.examples.Example.Pair@50f097b5</objectToString>
+    </org.drools.core.audit.event.ObjectLogEvent>
+    <org.drools.core.audit.event.ObjectLogEvent>
+      <type>1</type>
+      <factId>28</factId>
+      <objectToString>org.drools.examples.Example.Pair@7add838c</objectToString>
+    </org.drools.core.audit.event.ObjectLogEvent>
+    <org.drools.core.audit.event.ObjectLogEvent>
+      <type>1</type>
+      <factId>29</factId>
+      <objectToString>org.drools.examples.Example.Pair@3662bdff</objectToString>
+    </org.drools.core.audit.event.ObjectLogEvent>
+    <org.drools.core.audit.event.ObjectLogEvent>
+      <type>1</type>
+      <factId>30</factId>
+      <objectToString>org.drools.examples.Example.Pair@1bb15351</objectToString>
+    </org.drools.core.audit.event.ObjectLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>4</type>
+      <activationId>rule01 [1]</activationId>
+      <rule>rule01</rule>
+      <declarations>$x=1; $y=1</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>4</type>
+      <activationId>rule01 [2]</activationId>
+      <rule>rule01</rule>
+      <declarations>$x=1; $y=2</declarations>
+      <factHandleIds>2</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>4</type>
+      <activationId>rule01 [3]</activationId>
+      <rule>rule01</rule>
+      <declarations>$x=1; $y=3</declarations>
+      <factHandleIds>3</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>4</type>
+      <activationId>rule01 [4]</activationId>
+      <rule>rule01</rule>
+      <declarations>$x=1; $y=4</declarations>
+      <factHandleIds>4</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>4</type>
+      <activationId>rule01 [5]</activationId>
+      <rule>rule01</rule>
+      <declarations>$x=1; $y=5</declarations>
+      <factHandleIds>5</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>4</type>
+      <activationId>rule01 [6]</activationId>
+      <rule>rule01</rule>
+      <declarations>$x=1; $y=6</declarations>
+      <factHandleIds>6</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>4</type>
+      <activationId>rule01 [7]</activationId>
+      <rule>rule01</rule>
+      <declarations>$x=2; $y=1</declarations>
+      <factHandleIds>7</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>4</type>
+      <activationId>rule01 [8]</activationId>
+      <rule>rule01</rule>
+      <declarations>$x=2; $y=2</declarations>
+      <factHandleIds>8</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>4</type>
+      <activationId>rule01 [10]</activationId>
+      <rule>rule01</rule>
+      <declarations>$x=2; $y=4</declarations>
+      <factHandleIds>10</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>4</type>
+      <activationId>rule01 [12]</activationId>
+      <rule>rule01</rule>
+      <declarations>$x=2; $y=6</declarations>
+      <factHandleIds>12</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>4</type>
+      <activationId>rule01 [13]</activationId>
+      <rule>rule01</rule>
+      <declarations>$x=3; $y=1</declarations>
+      <factHandleIds>13</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>4</type>
+      <activationId>rule01 [15]</activationId>
+      <rule>rule01</rule>
+      <declarations>$x=3; $y=3</declarations>
+      <factHandleIds>15</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>4</type>
+      <activationId>rule01 [18]</activationId>
+      <rule>rule01</rule>
+      <declarations>$x=3; $y=6</declarations>
+      <factHandleIds>18</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>4</type>
+      <activationId>rule01 [19]</activationId>
+      <rule>rule01</rule>
+      <declarations>$x=4; $y=1</declarations>
+      <factHandleIds>19</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>4</type>
+      <activationId>rule01 [20]</activationId>
+      <rule>rule01</rule>
+      <declarations>$x=4; $y=2</declarations>
+      <factHandleIds>20</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>4</type>
+      <activationId>rule01 [22]</activationId>
+      <rule>rule01</rule>
+      <declarations>$x=4; $y=4</declarations>
+      <factHandleIds>22</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>4</type>
+      <activationId>rule01 [25]</activationId>
+      <rule>rule01</rule>
+      <declarations>$x=5; $y=1</declarations>
+      <factHandleIds>25</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>4</type>
+      <activationId>rule01 [29]</activationId>
+      <rule>rule01</rule>
+      <declarations>$x=5; $y=5</declarations>
+      <factHandleIds>29</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>6</type>
+      <activationId>rule01 [1]</activationId>
+      <rule>rule01</rule>
+      <declarations>$x=1; $y=1</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>7</type>
+      <activationId>rule01 [1]</activationId>
+      <rule>rule01</rule>
+      <declarations>$x=1; $y=1</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>6</type>
+      <activationId>rule01 [2]</activationId>
+      <rule>rule01</rule>
+      <declarations>$x=1; $y=2</declarations>
+      <factHandleIds>2</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>7</type>
+      <activationId>rule01 [2]</activationId>
+      <rule>rule01</rule>
+      <declarations>$x=1; $y=2</declarations>
+      <factHandleIds>2</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>6</type>
+      <activationId>rule01 [3]</activationId>
+      <rule>rule01</rule>
+      <declarations>$x=1; $y=3</declarations>
+      <factHandleIds>3</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>7</type>
+      <activationId>rule01 [3]</activationId>
+      <rule>rule01</rule>
+      <declarations>$x=1; $y=3</declarations>
+      <factHandleIds>3</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>6</type>
+      <activationId>rule01 [4]</activationId>
+      <rule>rule01</rule>
+      <declarations>$x=1; $y=4</declarations>
+      <factHandleIds>4</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>7</type>
+      <activationId>rule01 [4]</activationId>
+      <rule>rule01</rule>
+      <declarations>$x=1; $y=4</declarations>
+      <factHandleIds>4</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>6</type>
+      <activationId>rule01 [5]</activationId>
+      <rule>rule01</rule>
+      <declarations>$x=1; $y=5</declarations>
+      <factHandleIds>5</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>7</type>
+      <activationId>rule01 [5]</activationId>
+      <rule>rule01</rule>
+      <declarations>$x=1; $y=5</declarations>
+      <factHandleIds>5</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>6</type>
+      <activationId>rule01 [6]</activationId>
+      <rule>rule01</rule>
+      <declarations>$x=1; $y=6</declarations>
+      <factHandleIds>6</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>7</type>
+      <activationId>rule01 [6]</activationId>
+      <rule>rule01</rule>
+      <declarations>$x=1; $y=6</declarations>
+      <factHandleIds>6</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>6</type>
+      <activationId>rule01 [7]</activationId>
+      <rule>rule01</rule>
+      <declarations>$x=2; $y=1</declarations>
+      <factHandleIds>7</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>7</type>
+      <activationId>rule01 [7]</activationId>
+      <rule>rule01</rule>
+      <declarations>$x=2; $y=1</declarations>
+      <factHandleIds>7</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>6</type>
+      <activationId>rule01 [8]</activationId>
+      <rule>rule01</rule>
+      <declarations>$x=2; $y=2</declarations>
+      <factHandleIds>8</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>7</type>
+      <activationId>rule01 [8]</activationId>
+      <rule>rule01</rule>
+      <declarations>$x=2; $y=2</declarations>
+      <factHandleIds>8</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>6</type>
+      <activationId>rule01 [10]</activationId>
+      <rule>rule01</rule>
+      <declarations>$x=2; $y=4</declarations>
+      <factHandleIds>10</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>7</type>
+      <activationId>rule01 [10]</activationId>
+      <rule>rule01</rule>
+      <declarations>$x=2; $y=4</declarations>
+      <factHandleIds>10</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>6</type>
+      <activationId>rule01 [12]</activationId>
+      <rule>rule01</rule>
+      <declarations>$x=2; $y=6</declarations>
+      <factHandleIds>12</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>7</type>
+      <activationId>rule01 [12]</activationId>
+      <rule>rule01</rule>
+      <declarations>$x=2; $y=6</declarations>
+      <factHandleIds>12</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>6</type>
+      <activationId>rule01 [13]</activationId>
+      <rule>rule01</rule>
+      <declarations>$x=3; $y=1</declarations>
+      <factHandleIds>13</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>7</type>
+      <activationId>rule01 [13]</activationId>
+      <rule>rule01</rule>
+      <declarations>$x=3; $y=1</declarations>
+      <factHandleIds>13</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>6</type>
+      <activationId>rule01 [15]</activationId>
+      <rule>rule01</rule>
+      <declarations>$x=3; $y=3</declarations>
+      <factHandleIds>15</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>7</type>
+      <activationId>rule01 [15]</activationId>
+      <rule>rule01</rule>
+      <declarations>$x=3; $y=3</declarations>
+      <factHandleIds>15</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>6</type>
+      <activationId>rule01 [18]</activationId>
+      <rule>rule01</rule>
+      <declarations>$x=3; $y=6</declarations>
+      <factHandleIds>18</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>7</type>
+      <activationId>rule01 [18]</activationId>
+      <rule>rule01</rule>
+      <declarations>$x=3; $y=6</declarations>
+      <factHandleIds>18</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>6</type>
+      <activationId>rule01 [19]</activationId>
+      <rule>rule01</rule>
+      <declarations>$x=4; $y=1</declarations>
+      <factHandleIds>19</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>7</type>
+      <activationId>rule01 [19]</activationId>
+      <rule>rule01</rule>
+      <declarations>$x=4; $y=1</declarations>
+      <factHandleIds>19</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>6</type>
+      <activationId>rule01 [20]</activationId>
+      <rule>rule01</rule>
+      <declarations>$x=4; $y=2</declarations>
+      <factHandleIds>20</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>7</type>
+      <activationId>rule01 [20]</activationId>
+      <rule>rule01</rule>
+      <declarations>$x=4; $y=2</declarations>
+      <factHandleIds>20</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>6</type>
+      <activationId>rule01 [22]</activationId>
+      <rule>rule01</rule>
+      <declarations>$x=4; $y=4</declarations>
+      <factHandleIds>22</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>7</type>
+      <activationId>rule01 [22]</activationId>
+      <rule>rule01</rule>
+      <declarations>$x=4; $y=4</declarations>
+      <factHandleIds>22</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>6</type>
+      <activationId>rule01 [25]</activationId>
+      <rule>rule01</rule>
+      <declarations>$x=5; $y=1</declarations>
+      <factHandleIds>25</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>7</type>
+      <activationId>rule01 [25]</activationId>
+      <rule>rule01</rule>
+      <declarations>$x=5; $y=1</declarations>
+      <factHandleIds>25</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>6</type>
+      <activationId>rule01 [29]</activationId>
+      <rule>rule01</rule>
+      <declarations>$x=5; $y=5</declarations>
+      <factHandleIds>29</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>7</type>
+      <activationId>rule01 [29]</activationId>
+      <rule>rule01</rule>
+      <declarations>$x=5; $y=5</declarations>
+      <factHandleIds>29</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+  </events>
+</org.drools.core.audit.WorkingMemoryLog>
+</object-stream>
